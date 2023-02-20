@@ -28,7 +28,7 @@ function Customers(){
                         <div class="col">
                             <div class="bg-light rounded-3 d-flex flex-column justify-content-center align-items-center w-100 aos-init" data-aos="zoom-in" data-aos-easing="ease-out-back" data-aos-delay="400" style = {{minHeight: '100px'}}>
                                 <div class='d-flex flex-column justify-content-center align-items-center w-100 py-1'>
-                                <img src="/assets/img/customers/lido.png" alt="Hybrid Finance" className='py-lg-4 px-lg-3 px-1 py-4' style = {{maxHeight: '100px'}}/>
+                                <img src="/assets/img/customers/moonpay.png" alt="Hybrid Finance" className='py-lg-4 px-lg-3 px-1 py-4' style = {{maxHeight: '100px'}}/>
                                 
                                 </div>
                             </div>
@@ -47,7 +47,7 @@ function Customers(){
                         <div class="col">
                             <div class="bg-light rounded-3 d-flex flex-column justify-content-center align-items-center w-100 aos-init" data-aos="zoom-in" data-aos-easing="ease-out-back" data-aos-delay="100" style = {{minHeight: '100px'}}>
                                 <div class='d-flex flex-column justify-content-center align-items-center w-100'>
-                                <img src="/assets/img/customers/unstoppable-2.png" alt="Indi.gg" className='p-1' style = {{maxHeight: '150px'}}/>
+                                <img src="/assets/img/customers/axie.png" alt="Indi.gg" className='p-1' style = {{maxHeight: '150px'}}/>
                                 
                                 </div>
                             </div>
@@ -56,7 +56,7 @@ function Customers(){
                         <div class="col">
                             <div class="bg-light rounded-3 d-flex flex-column justify-content-center align-items-center w-100 aos-init aos-animate" data-aos="zoom-in" data-aos-easing="ease-out-back" data-aos-delay="200" style = {{minHeight: '100px'}}>
                                 <div class='d-flex flex-column justify-content-center align-items-center w-100'>
-                                <img src="/assets/img/customers/moonpay.png" alt="Indi.gg" className='p-3' style = {{maxHeight: '100px'}}/>
+                                <img src="/assets/img/customers/unstoppable-2.png" alt="Indi.gg" className='p-3' style = {{maxHeight: '100px'}}/>
                                 
                                 </div>
                             </div>
@@ -65,7 +65,7 @@ function Customers(){
                         <div class="col">
                             <div class="bg-light rounded-3 d-flex flex-column justify-content-center align-items-center w-100 aos-init" data-aos="zoom-in" data-aos-easing="ease-out-back" data-aos-delay="800" style = {{minHeight: '100px'}}>
                                 <div class='d-flex flex-column justify-content-center align-items-center w-100 py-2'>
-                                <img src="/assets/img/customers/cointelegraph.png" alt="Eternal Dragons" className='p-2' style = {{maxHeight: '85px'}}/>
+                                <img src="/assets/img/customers/rarible-2.png" alt="Eternal Dragons" className='p-2' style = {{maxHeight: '85px'}}/>
                                 </div>
                             </div>
                         </div>
@@ -75,7 +75,7 @@ function Customers(){
                         <div class="col">
                             <div class="bg-light rounded-3 d-flex flex-column justify-content-center align-items-center w-100 aos-init aos-animate" data-aos="zoom-in" data-aos-easing="ease-out-back" data-aos-delay="500" style = {{minHeight: '100px'}}>
                                 <div class=''>
-                                <img src="/assets/img/customers/alchemy.png" alt="Indi.gg" className='p-3' style = {{maxHeight: '100px'}}/>
+                                <img src="/assets/img/customers/lido.png" alt="Indi.gg" className='p-3' style = {{maxHeight: '100px'}}/>
 
                                 </div>
                             </div>
@@ -85,7 +85,7 @@ function Customers(){
                         <div class="col">
                             <div class="bg-light rounded-3 d-flex flex-column justify-content-center align-items-center w-100 aos-init" data-aos="zoom-in" data-aos-easing="ease-out-back" data-aos-delay="700" style = {{minHeight: '100px'}}>
                                 <div class='d-flex flex-column justify-content-center align-items-center w-100'>
-                                <img src="/assets/img/customers/rarible-2.png" alt="Indi.gg" className='p-3' style = {{maxHeight: '100px'}}/>
+                                <img src="/assets/img/customers/sushi-2.png" alt="Indi.gg" className='p-3' style = {{maxHeight: '100px'}}/>
                                 
                                 </div>
                             </div>
@@ -93,7 +93,7 @@ function Customers(){
                         <div class="col">
                             <div class="bg-light rounded-3 d-flex flex-column justify-content-center align-items-center w-100 aos-init" data-aos="zoom-in" data-aos-easing="ease-out-back" data-aos-delay="100" style = {{minHeight: '100px'}}>
                                 <div class='d-flex flex-column justify-content-center align-items-center w-100'>
-                                <img src="/assets/img/customers/sushi-2.png" alt="Indi.gg" className='p-3 pt-3' style = {{maxHeight: '100px'}}/>
+                                <img src="/assets/img/customers/crypto-unicorns.png" alt="Indi.gg" className='p-3 pt-3' style = {{maxHeight: '100px'}}/>
                                 
                                 </div>
                             </div>

@@ -9,9 +9,9 @@ const Features = () => {
             <div class="container dark-mode position-relative zindex-5 pt-5 mt-4 mt-lg-5">
              <div class="row justify-content-center text-center pt-md-2 pt-lg-0 pt-xl-2 pb-5 mb-md-2">
                     <div class="col-lg-10 col-xl-10 col-xxl-9">
-                        <span class="badge bg-faded-light fs-sm text-white px-3 mb-4">Take your data to the next level</span>
-                        <h1 class="display-2 fw-bolder mb-sm-4">Using data to drive your project's growth</h1>
-                        <p class="pb-3 mb-3 mb-lg-4 lead">The first-of-its-kind web3 CRM to understand, engage and grow your users</p>
+                        <span class="badge bg-faded-light fs-sm text-white px-3 mb-4">Take your growth to the next level</span>
+                        <h1 class="display-2 fw-bolder mb-sm-4">Use data to automate your web3 growth campaigns</h1>
+                        <p class="pb-3 mb-3 mb-lg-4 lead">The first-of-its-kind web3 CRM to understand, engage & grow your users</p>
                         <a class="btn btn-lg btn-warning" href={LINKs.calendly} target="_blank" rel="noopener">Schedule a call</a>
                     </div>
                 </div>

@@ -33,7 +33,7 @@ function Navbar() {
                             <span className="text-primary flex-shrink-0 me-2">
                                 <img src="/assets/icon/logo.png" class='img-fluid' style={{ width: '40px' }} alt="Logo" />
                             </span>
-                            Intract Venky
+                            Intract
                         </a>
                     </Link>
                     {/* <div class=" order-lg-2 me-3 me-lg-4 ms-auto">
