@@ -11,7 +11,7 @@ const Footer =  () => {
                         <div class='mb-3'>
                             <div class='btn-shine'>Get early access</div>
                         </div>
-                        <div class="h1 pb-3">Book a call and get <span class='gradient-text'>3 month free access</span> to our products.</div>
+                        <div class="h1 pb-3">Book a call and get <span class='gradient-text'>free 15 days access</span> to our products.</div>
                         <a class="btn btn-outline-light" href="https://calendly.com/intract/partnerships?utm_source=website" target="_blank" rel="noopener">Schedule a call</a>
                     </div>
                     <div class="col-md-5 col-xl-4 offset-md-1 offset-xl-2 offset-xxl-3">
