@@ -1,0 +1,45 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "postbuild": "next-sitemap",
+    "git": "git add . & git commit -m 'Minor Changes' && git push"
+  },
+  "dependencies": {
+    "@fullhuman/postcss-purgecss": "^4.0.3",
+    "@intract/attribution": "^1.0.14",
+    "aos": "^2.3.4",
+    "autoprefixer": "^10.3.5",
+    "axios": "^0.21.4",
+    "jarallax": "^2.0.4",
+    "lodash": "^4.17.21",
+    "next": "11.1.2",
+    "next-compose-plugins": "^2.2.1",
+    "next-optimized-images": "^2.6.2",
+    "next-seo": "^4.28.0",
+    "parallax-js": "^3.1.0",
+    "postcss-flexbugs-fixes": "^5.0.2",
+    "postcss-preset-env": "^6.7.0",
+    "posthog-js": "^1.13.10",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-facebook-pixel": "^1.0.4",
+    "react-hot-toast": "^2.4.0",
+    "react-modal-video": "^1.2.6",
+    "react-parallax-mouse": "^1.7.3",
+    "react-waypoint": "^10.1.0",
+    "swiper": "^8.3.2"
+  },
+  "devDependencies": {
+    "eslint": "7.32.0",
+    "eslint-config-next": "11.1.2",
+    "imagemin-mozjpeg": "^9.0.0",
+    "imagemin-optipng": "^8.0.0",
+    "next-sitemap": "^1.6.168"
+  }
+}
