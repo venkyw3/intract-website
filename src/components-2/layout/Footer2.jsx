@@ -1,5 +1,6 @@
 import React from 'react'
 import Link from 'next/link'
+import LINKs from 'content/links';
 
 const Footer =  () => {
   return (
@@ -16,7 +17,7 @@ const Footer =  () => {
                     </div>
                     <div class="col-md-5 col-xl-4 offset-md-1 offset-xl-2 offset-xxl-3">
                         <div class="row ">
-                            <div class="col-6">
+                            {/* <div class="col-6">
                                 <ul class="nav flex-column pb-4 mb-2 pb-md-5 mb-lg-1">
                                     <li class="nav-item mt-1">
                                         <span class="fw-bold">Products</span>
@@ -32,22 +33,27 @@ const Footer =  () => {
                                         </Link>
                                     </li>
                                 </ul>
-                            </div>
+                            </div> */}
                             <div class='col-6'>
                                 <ul class="nav flex-column pb-4 mb-2 pb-md-5 mb-lg-1">
                                     <li class="nav-item mt-1">
-                                        <span class="fw-bold">Others</span>
+                                        <span class="fw-bold">Sitemap</span>
                                     </li>
                                     <li class="nav-item mt-1">
                                         <Link href = "/community" passHref>
                                             <a class="nav-link py-1 px-0">Community</a>
                                         </Link>
                                     </li>
-                                    {/* <li class="nav-item mt-1">
+                                    <li class="nav-item mt-1">
+                                        <Link href = {LINKs.litepaper} passHref>
+                                            <a class="nav-link py-1 px-0">Vision</a>
+                                        </Link>
+                                    </li>
+                                    <li class="nav-item mt-1">
                                         <Link href = "/blogs" passHref>
                                             <a class="nav-link py-1 px-0">Blogs</a>
                                         </Link>
-                                    </li> */}
+                                    </li>
                                 </ul>
                                 <div class="d-flex">
                                     <a class="btn btn-secondary btn-icon btn-sm btn-linkedin rounded-circle me-3" target="_blank" rel="noopener" href="https://www.linkedin.com/company/intract-buzz/">

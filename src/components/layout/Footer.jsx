@@ -1,5 +1,6 @@
 import React from 'react'
 import Link from 'next/link'
+import LINKs from 'content/links';
 
 const Footer =  () => {
   return (
@@ -16,7 +17,7 @@ const Footer =  () => {
                     </div>
                     <div class="col-md-5 col-xl-4 offset-md-1 offset-xl-2 offset-xxl-3">
                         <div class="row ">
-                            <div class="col-6">
+                            {/* <div class="col-6">
                                 <ul class="nav flex-column pb-4 mb-2 pb-md-5 mb-lg-1">
                                     <li class="nav-item mt-1">
                                         <span class="fw-bold">Products</span>
@@ -28,19 +29,29 @@ const Footer =  () => {
                                     </li>
                                     <li class="nav-item mt-1">
                                         <Link href = "/products/intract" passHref>
-                                            <a class="nav-link py-1 px-0">Community Analytics</a>
+                                            <a class="nav-link py-1 px-0">Community Analyticsss</a>
                                         </Link>
                                     </li>
                                 </ul>
-                            </div>
-                            <div class='col-6'>
+                            </div> */}
+                            <div class='col-8'>
                                 <ul class="nav flex-column pb-4 mb-2 pb-md-5 mb-lg-1">
                                     <li class="nav-item mt-1">
-                                        <span class="fw-bold">Others</span>
+                                        <span class="fw-bold">Sitemap</span>
                                     </li>
                                     <li class="nav-item mt-1">
                                         <Link href = "/community" passHref>
                                             <a class="nav-link py-1 px-0">Community</a>
+                                        </Link>
+                                    </li>
+                                    <li class="nav-item mt-1">
+                                        <Link href = {LINKs.litepaper} passHref>
+                                            <a class="nav-link py-1 px-0">Vision</a>
+                                        </Link>
+                                    </li>
+                                    <li class="nav-item mt-1">
+                                        <Link href = "/blogs" passHref>
+                                            <a class="nav-link py-1 px-0">Blogs</a>
                                         </Link>
                                     </li>
                                     {/* <li class="nav-item mt-1">

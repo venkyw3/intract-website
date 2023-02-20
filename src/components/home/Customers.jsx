@@ -93,7 +93,7 @@ function Customers(){
                         <div class="col">
                             <div class="bg-light rounded-3 d-flex flex-column justify-content-center align-items-center w-100 aos-init" data-aos="zoom-in" data-aos-easing="ease-out-back" data-aos-delay="100" style = {{minHeight: '100px'}}>
                                 <div class='d-flex flex-column justify-content-center align-items-center w-100'>
-                                <img src="/assets/img/customers/sushi-2.png" alt="Indi.gg" className='p-3 pt-3' style = {{maxHeight: '100px'}}/>
+                                <img src="/assets/img/customers/alchemy.png" alt="Indi.gg" className='p-3 pt-3' style = {{maxHeight: '100px'}}/>
                                 
                                 </div>
                             </div>
