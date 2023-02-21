@@ -4,9 +4,9 @@ import LINKs from 'content/links';
 
 const Features = () => {
     return (
-        <section class="container pt-5 pb-4 mb-2 my-lg-3 my-xl-4 my-xxl-5">
+        <section class="container pb-4 mb-2 my-lg-3 my-xl-4 my-xxl-5"> {/*pt-5*/ }
              {/* <div class="bg-primary"> */}
-            <div class="container dark-mode position-relative zindex-5 pt-5 mt-4 mt-lg-5">
+            <div class="container dark-mode position-relative zindex-5"> {/*pt-5 mt-4 mt-lg-5*/}
              <div class="row justify-content-center text-center pt-md-2 pt-lg-0 pt-xl-2 pb-5 mb-md-2">
                     <div class="col-lg-10 col-xl-10 col-xxl-9">
                         <span class="badge bg-faded-light fs-sm text-white px-3 mb-4">Take your community building to the next level</span>

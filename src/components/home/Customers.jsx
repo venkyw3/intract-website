@@ -9,9 +9,9 @@ function Customers(){
                 <div class="order-lg-2 text-center text-lg-start ps-lg-5 mx-auto me-lg-0">
                     <h2 class="h2 mb-4">Join other top projects <br class="d-none d-lg-inline "/>pushing boundaries 🙌</h2>
                     <p class="pb-3 mb-3 mb-lg-4">We are live across 150+ global projects helping them acquire & engage quality users for their platform.</p>
-                    <Link href="https://gate3.intract.buzz?utm_source=website&utm_campaign=navbar"  passHref scroll={false}>
+                    {/* <Link href="https://gate3.intract.buzz?utm_source=website&utm_campaign=navbar"  passHref scroll={false}>
                         <a class="btn btn-dark d-none d-lg-inline-flex" target="_blank" rel="noopener" >Onboard our tools</a>
-                    </Link>
+                    </Link> */}
                 </div>
                 <div class="order-lg-1 w-100 mx-auto mx-lg-0" style={{maxWidth: "558px"}}>
                     <div class="row row-cols-3 g-3 g-sm-4 g-lg-3 g-xl-4">

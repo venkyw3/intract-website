@@ -12,10 +12,10 @@ const Footer =  () => {
                         <div class='mb-3'>
                             <div class='btn-shine'>Get free access</div>
                         </div>
-                        <div class="h1 pb-3">Book a call and get <span class='gradient-text'> free 15 days access</span> to our products.</div>
+                        <div class="h1 pb-3">Book a call and get <span class='gradient-text'> free 15 days access</span> to Intract</div>
                         <a class="btn btn-outline-light" href="https://calendly.com/intract/partnerships?utm_source=website" target="_blank" rel="noopener">Schedule a call</a>
                     </div>
-                    <div class="col-md-5 col-xl-4 offset-md-1 offset-xl-2 offset-xxl-3">
+                    <div class="col-md-3 col-xl-2 offset-md-3 offset-xxl-5">
                         <div class="row ">
                             {/* <div class="col-6">
                                 <ul class="nav flex-column pb-4 mb-2 pb-md-5 mb-lg-1">
