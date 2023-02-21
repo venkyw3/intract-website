@@ -20,11 +20,11 @@ function Hero() {
                                 <span class='gradient-text'>The Ultimate Web3 Growth Toolkit</span>
                             </div>
                             <div class="d-block d-lg-none" style = {{fontSize: '3rem'}}>  
-                                <span class='gradient-text'>The Ultimate Web3 Growth Toolkit</span> in web3
+                                <span class='gradient-text'>The Ultimate Web3 Growth Platform</span> in web3
                             </div>
                         </h1>
                         <p className='text-center lead px-lg-5  mx-lg-auto' style={{maxWidth: "1020px"}}>
-                        A Comprehensive Suite of Web3 Marketing & Community Engagement products
+                        A Comprehensive Suite of Web3 Marketing & Community Engagement Products
                         </p>
                         {/* <div class="d-lg-flex justify-content-center mt-5 text-center">
                             <a class="btn btn-lg btn-primary rounded-pill btn-block w-100 w-lg-auto me-sm-4" href = {LINKs.gate3} target="_blank" rel="noopener">

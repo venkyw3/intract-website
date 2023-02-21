@@ -15,9 +15,9 @@ const Features2 = () => {
                 <div class="col-md-6 col-xl-5 offset-xl-1 pt-xl-2 aos-init" data-aos="fade-up" data-aos-duration="850" data-aos-offset="200" data-disable-parallax-down="md">
                     <div class="ps-md-3 ps-xl-0"
                     ><span class="badge bg-faded-primary text-primary fs-sm mb-3 mb-lg-4">Campaign Management & Evaluation</span>
-                        <h3 class="h2 mb-lg-4">Launch & Track your Campaigns on a Singular Dashboard</h3>
+                        <h3 class="h2 mb-lg-4">All Campaigns with User Attribution from One Dashboard</h3>
                         <p class="mb-0 lead">
-                            Launch giveaways, KOL campaigns, collabs & referrals. Track CAC & attribute marketing ROI across Web3 channels. 
+                        Set up & track giveaways, KOL campaigns, collabs & referrals. Web3 campaign optimization of CAC & ROI across channels 
                         </p>
                     </div>
                 </div>
@@ -29,9 +29,9 @@ const Features2 = () => {
                 <div class="col-md-6 col-xl-5 order-md-1 pt-xl-2 aos-init" data-aos="fade-up" data-aos-duration="850" data-aos-offset="200" data-disable-parallax-down="md">
                     <div class="pe-md-3 pe-xl-0">
                         <span class="badge bg-faded-primary text-primary fs-sm mb-3 mb-lg-4">User Analytics & Acquisition</span>
-                        <h3 class="h2 mb-lg-4">Run cross-platform community analytics</h3>
+                        <h3 class="h2 mb-lg-4">Cross-platform community analytics</h3>
                         <p class="mb-0 lead">
-                            Augment on-chain behavior with off-chain data. The web3 CRM to segment and understand your user categories. 
+                        Connect on-chain data analytics with off-chain from your Twitter and Discord. Community CRM for user segmentation and community management 
                         </p>
                     </div>
                 </div>
@@ -47,9 +47,9 @@ const Features2 = () => {
                 <div class="col-md-6 col-xl-5 offset-xl-1 pt-xl-2 aos-init" data-aos="fade-up" data-aos-duration="850" data-aos-offset="200" data-disable-parallax-down="md">
                     <div class="ps-md-3 ps-xl-0"
                     ><span class="badge bg-faded-primary text-primary fs-sm mb-3 mb-lg-4">Intelligent Growth Automation</span>
-                        <h3 class="h2 mb-lg-4">Accelerate User Acquisition with data-backed workflows</h3>
+                        <h3 class="h2 mb-lg-4">Data-Driven Web3 User Acquisition</h3>
                         <p class="mb-0 lead">
-                        Curate incentive campaigns, run superior quests, token gate your communities, manage allowlists & run targeted airdrops.  
+                        Curate incentive campaigns, run superior quests, reward your community with token gating, manage allowlists & run targeted airdrops  
                         </p>
                     </div>
                 </div>

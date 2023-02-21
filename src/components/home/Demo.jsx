@@ -10,9 +10,9 @@ const Features = () => {
              <div class="row justify-content-center text-center pt-md-2 pt-lg-0 pt-xl-2 pb-5 mb-md-2">
                     <div class="col-lg-10 col-xl-10 col-xxl-9">
                         <span class="badge bg-faded-light fs-sm text-white px-3 mb-4">Take your community building to the next level</span>
-                        <h2 class="display-2 fw-bolder mb-sm-4">Use web3 data analytics to automate campaigns</h2>
-                        <p class="pb-3 mb-3 mb-lg-4 lead">The complete web3 CRM to understand, engage and acquire your users</p>
-                        <a class="btn btn-lg btn-primary" href={LINKs.calendly} target="_blank" rel="noopener">Connect with a Web3 Growth Specialist</a>
+                        <h2 class="display-2 fw-bolder mb-sm-4">Data analytics for your web3 growth hacking</h2>
+                        <p class="pb-3 mb-3 mb-lg-4 lead">The complete web3 CRM to understand, acquire and engage your users</p>
+                        <a class="btn btn-lg btn-primary" href={LINKs.calendly} target="_blank" rel="noopener">Consult our Web3 Growth Experts</a>
                     </div>
                 </div>
             <div class=" rounded-4 p-2 mx-auto" >
