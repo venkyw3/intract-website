@@ -19,6 +19,7 @@ class CustomDocument extends Document {
 				<script async src="https://www.googletagmanager.com/gtag/js?id=G-V6TEDGD1PV"></script>
 				<script dangerouslySetInnerHTML={{__html : GA_SCRIPT}} />
 				<script dangerouslySetInnerHTML={{__html : HOTJAR_SCRIPT}} />
+				<script async src="https://static.intract.io/static/js/main.js?app_id=6381b52b2602c9dbd20e554b"></script>
 			</Head>
 			<body>
 				<div class='bg-tile-top-lg bg-neutral-600'>

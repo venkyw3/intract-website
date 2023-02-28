@@ -4,13 +4,13 @@ import React from 'react'
 
 function Customers(){
   return (
-    <section class="container rounded-5 bg-white mt-5 pt-5">
+    <section class="container rounded-5 bg-primary mt-5 mb-5">
         <div class="  py-5 px-4 p-sm-5 text-black">
             <div class="d-lg-flex align-items-center g-0 py-2 py-sm-3 py-md-4 p-xl-5">
                 <div class="order-lg-2 text-center text-lg-start ps-lg-5 mx-auto me-lg-0">
                     <h2 class="text-black h2 mb-4">Join other top projects <br class="d-none d-lg-inline "/>pushing boundaries 🙌</h2>
                     <p class="pb-3 mb-3 mb-lg-4">We are live across 150+ global projects helping them acquire & engage quality users for their platform.</p>
-                    <a class="btn btn-primary d-none d-lg-inline-flex" href = {LINKs.calendly} target="_blank" rel="noopener">Schedule a call</a>
+                    <a class="btn btn-dark d-none d-lg-inline-flex" href = {LINKs.calendly} target="_blank" rel="noopener">Schedule a call</a>
                 </div>
                 <div class="order-lg-1 w-100 mx-auto mx-lg-0" style={{maxWidth: "558px"}}>
                     <div class="row row-cols-3 g-3 g-sm-4 g-lg-3 g-xl-4">
