@@ -112,12 +112,6 @@ function Navbar() {
                                     <a href={LINKs.litepaper} target="_blank" rel="noopener" className='nav-link'>Vision</a>
                                 </div>
                             </li>
-                         {/* </ul> */}
-                          <div className="d-sm-none p-3 mt-n3">
-                            <a className="btn btn-primary w-100  mb-1" href="https://gate3.intract.buzz?utm_source=website&utm_campaign=navbar" target="_blank" rel="noopener">
-                                <i className="ai-login fs-xl me-2 ms-n1">Start Free</i>
-                            </a>
-                            </div>
                             <li className="nav-item">
                                 <div>
                                     <a href={LINKs.blog} target="_blank" rel="noopener" className='nav-link'>Blog</a>
@@ -125,8 +119,8 @@ function Navbar() {
                             </li>
                         </ul>
                         <div className="d-sm-none p-3 mt-n3">
-                            <a className="btn btn-primary w-100  mb-1" href="https://www.blogs.intract.io" target="_blank" rel="noopener">
-                                <i className="ai-login fs-xl me-2 ms-n1"></i>Start Free
+                            <a className="btn btn-primary w-100  mb-1" href = {LINKs.calendly} target="_blank" rel="noopener">
+                                <i className="ai-login fs-xl me-2 ms-n1"></i>Schedule a call
                             </a>
                         </div>
                     </nav>

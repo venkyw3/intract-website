@@ -2,7 +2,7 @@ import React from 'react'
 
 const Investors = () => {
   return (
-    <section class="container  pb-lg-5"> {/*pt-lg-3 pt-xl-4 pt-xxl-5 mt-n2 mt-md-1 */}
+    <section class="container pb-5 mb-5"> {/* */}
         <div class="row justify-content-center align-items-center row-cols-2 row-cols-3 row-cols-md-5 gx-0 gx-sm-3 gx-md-2 gx-lg-3 gx-xl-4">
           <div class="col-12 col-lg-2">
             <div class="h3 py-sm-2 my-xl-1">
